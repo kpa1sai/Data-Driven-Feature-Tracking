@@ -1,0 +1,5 @@
+einops
+kornia
+opencv-python
+torch
+tqdm
